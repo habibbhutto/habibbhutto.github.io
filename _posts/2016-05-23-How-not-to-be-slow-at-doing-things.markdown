@@ -24,7 +24,7 @@ So how to fix that problem? Here are some tips for you.
 5. Is there still something left? Check are they real or dreams? can be done now or no? If they are not real take them out. If you can not do anything about them in this week or month, take them out from the stake. 
 
 6. Is there still somethings, some bits and pieces? Focus on very important thing now. 
-How to determine what's most important? Think about what do you really need to do in order to move forward to the next thing for the day? For example taking shower, getting ready, going to work, focus on tasks at hand, finish up your day. Focus and work on the solution you have set plan for, focus on small bits and peieces. Believe that this will get you closer to your target. Break down bigger tasks into smaller chunks so that each can be completed in 2 hours or so. This will help you to stay motivated and focused. 
+How to determine what's most important? Think about what do you really need to do in order to move forward to the next thing for the day? For example taking shower, getting ready, going to work, focus on tasks at hand, finish up your day. Focus and work on the solution you have set plan for, focus on small bits and pieces. Believe that this will get you closer to your target. Break down bigger tasks into smaller chunks so that each can be completed in 2 hours or so. This will help you to stay motivated and focused. 
 
 Once all this comes into your practice, you will get the rhythm, having proper focus will be part of your daily life. 
 
