@@ -5,9 +5,9 @@ date:   2016-05-23 02:00:32 +0800
 categories: productivity
 ---
 Do you feel that you are slow at doing things as compare to before? or some of your friends or family members are doing things damn slow? 
-Probably your answer is *Yes*.
+Probably, your answer is *Yes*.
 
-Well, they are slow for a reason. Their brain is overloaded with many things and thoughts. They are just thinking, living in imagination, processing some high amount of data, during this process they are not able to realize pace of time. They are just unable to keep up with the pace of time. They are just absent not able to realize the presence of time. 
+Well, if you are slow then you are slow for a reason. Your brain is overloaded with many things and thoughts. You are just thinking, living in imagination, processing some high amount of data, during this process your are not able to realize pace of time. Your are just unable to keep up with the pace of time. You are just absent not able to realize the presence of time. 
 
 So how to fix that problem? Here are some tips 
 
