@@ -9,7 +9,7 @@ Probably, your answer is *Yes*.
 
 Well, if you are slow then you are slow for a reason. Your brain is overloaded with many things and thoughts. You are just thinking, living in imagination, processing some high amount of data, during this process your are not able to realize pace of time. Your are just unable to keep up with the pace of time. You are just absent not able to realize the presence of time. 
 
-So how to fix that problem? Here are some tips 
+So how to fix that problem? Here are some tips for you.  
 
 1. Let's caliberate your brain first. Use timer like stop watch for daily tasks, pay attention to movement of time, exercise it, that will caliberate your brain with pace of time. 
 
