@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Yes, that's right. I'm Habib Ahmed Bhutto
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I love crafting software. I'm interested in future socio-economic technological solutions to real problems. I enjoy technical challenges. For last few years I been enjoying technologies like NUI, 3D Depth Sensors, Large Mult-Touch Screens, Image Processing, Mobile, Desktop and Internet Technologies. Currently I'm fascinated with IoT and Internet Machines. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I love writing code in C and C++, but I use C#, Java, PHP, Javascript and others as well. I like what WPF and MFC can do, but I love QT. I like SQLs but I love NoSQLs. I feel awesome when I use Open Frameworks, OpenCV and NS2. It's fun to hack open source code here and there with some purpose. 
+
+Let's get in touch on [LinkedIn](https://www.linkedin.com/in/habibahmedbhutto)
