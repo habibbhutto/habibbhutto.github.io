@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I specialize in building secure and reliable software systems using modern tools and techniques. My experience includes workflow automation, payment gateways, image processing, natural user interfaces, distributed reactive systems, scalability, performance, reliability, continuous delivery, microservices, and application monitoring. 
+Hi! I build secure and reliable software systems using modern tools and techniques. My experience includes workflow automation, payment gateways, image processing, natural user interfaces, distributed reactive systems, scalability, performance, reliability, continuous delivery, monoliths, microservices, and application monitoring. 
 
 I have experience developing and maintaining SOC2 and PCI-compliant software systems. I have lead and developed several critical features for widely used products such as Nintex Workflow Cloud and Ezypay Subscription Payment System. 
 
